@@ -1,0 +1,22 @@
+
+
+/* Add this CSS in your stylesheet */
+@media (max-width: 600px) {
+        footer {
+          text-align: center;
+        }
+      
+        .container {
+          display: flex;
+          flex-direction: row;
+        }
+      
+        .w-full {
+          width: 100%;
+        }
+      
+        .md {
+          width: 100%;
+        }
+      }
+      

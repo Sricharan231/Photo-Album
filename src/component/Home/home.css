@@ -1,0 +1,32 @@
+body{
+    /* background-image: url('https://media.istockphoto.com/id/1248705489/vector/blue-gradient-wall-studio-empty-room-abstract-background-with-lighting-and-space-for-your.jpg?s=612x612&w=0&k=20&c=zQvuCkeoscxUbU0jMT82j58kw4eJD6U-_9jABDqzlCo='); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head1{
+    color: yellow;
+    font-size: 3rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding: top 50vh;
+}
+#p2{
+    color:aqua;
+    font-family: cursive;
+    /* font-size: 3rem; */
+    text-align: center;
+    
+}
+h1{
+    color: aliceblue;
+    margin-bottom: 1%;
+}
+p1{
+    color: aliceblue;
+}
+/* .hhh{
+    height: 500px;
+} */
+
+
+  

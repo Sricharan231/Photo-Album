@@ -1,0 +1,30 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* .w-1/2 {
+    width: 50%;
+  } */
+  
+  .p-1 {
+    padding: 1rem;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .object-cover {
+    object-fit: cover;
+  }
+  
+  .object-center {
+    object-position: center;
+  }
+  

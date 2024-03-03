@@ -1,0 +1,77 @@
+body{
+    /* background-image: url(../../../public/images/11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    padding: 0;
+    margin: 0;
+    /* font-family: cursive; */
+    font-style:italic;
+} 
+.lo{
+    background-image: url(../../../public/images/11.jpg);
+    height: 800px;
+}
+
+#hk{
+    color: red;
+}
+form{
+    text-align: center;
+    padding: 5%;
+    padding-top: 1px;
+    /* background-image: linear-gradient(to right, rgb(212, 206, 206), rgb(164, 213, 65)  ); */
+    text-align: center;
+    width: 20%;
+    margin: 4% auto 20% 50%;
+    /* margin-left:50%; */
+    height: auto;
+    border-radius: 2%;
+    border : 2px solid black;
+    font-family: cursive;
+}
+form:hover{
+        background-image: linear-gradient(to right, rgb(212, 206, 206), rgb(63, 168, 166)  );
+        border: none;
+        /* margin-left:50%; */
+
+
+}
+form label {
+    padding: 5px;
+    margin:20px;
+}
+form input{
+    padding:5px;
+    margin: 20px;
+    height: 25px;
+    width: 85%;
+    font-family: cursive;
+    border: none
+    
+
+
+}
+#r{
+    color: black;
+    margin-top: 10%;
+}
+button#btn{
+background-color:transparent;
+padding: 5%;
+width: 70%;
+height: 20%;
+border-radius: 50%;
+color: aliceblue;
+font-weight: bolder;
+font-size: larger;
+border: 3px solid gray;
+opacity: 2;
+cursor: pointer;
+
+
+}
+button#btn:hover{
+    background-color: aliceblue;
+    color: black;
+
+}

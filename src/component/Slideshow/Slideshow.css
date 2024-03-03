@@ -1,0 +1,18 @@
+.slid {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Vertically center images */
+}
+
+.slid img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover; /* Maintain aspect ratio while covering the container */
+}
+
+.slide {
+  width: 100%;
+  text-align: center; /* Center text if needed */
+}
